@@ -1,4 +1,4 @@
-module github.com/rodrigo-brito/gocity
+module github.com/Yoshinori-Koide-PRO/gocity
 
 require (
 	cloud.google.com/go v0.30.0
